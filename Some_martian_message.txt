@@ -1,0 +1,33 @@
+SYNTPrfneVfPbbyOhgAbgFrpher
+FLAG
+
+S - F	19 - 6
+Y - L	25 - 12
+N - A	14 - 1
+T - G	20 - 7
+P - C	16 - 3
+r - e	18 - 3
+f - s	6 - 19
+n - a	14 - 1
+e - r	5 - 18
+V - I	22 - 9
+f - s	6 - 19
+P - C	16 - 3
+b - o	2 - 15
+b - o	2 - 15
+y - l	25 - 12
+O - B	15 - 2
+h - u	8 - 21
+g - t	7 - 20
+A - N	1 - 14
+b - o	2 - 15
+g - t	7 - 20
+F - S	6 - 19
+r - e	18 - 3
+p - c	16 - 3
+h - u	8 - 21
+e - r	5 - 18
+r - e	18 - 5
+
+
+FLAGCesarIsCoolButNotSecure
